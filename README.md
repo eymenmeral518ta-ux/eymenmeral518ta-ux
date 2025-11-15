@@ -25,4 +25,7 @@
 
 ---
 
-🌐 [Click here to visit my website](https://sites.google.com/view/eymenmeral/ana-sayfa)
+## 🔗 Quick Links
+- [GitHub](https://github.com/eymenmeral518ta-ux)  
+- My Minecraft Server (Coming Soon)  
+- [Website](https://sites.google.com/view/eymenmeral/ana-sayfa)
